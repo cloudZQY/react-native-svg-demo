@@ -5,7 +5,7 @@ import svgs from '../assets/svgs';
 export default class Svg extends Component {
   render() {
     const {
-      iocn,
+      icon,
       color,
       size,
       style,
